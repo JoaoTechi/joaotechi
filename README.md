@@ -1,5 +1,5 @@
 # 👨🏻‍💻 João Techi
-**`Desenvolvedor Back-End`**
+**`Estudante de Engenharia de Software`**
 
 Me chamo João Pedro Techi, tenho 21 anos e sou natural de Cuiabá. Conclui o ensino médio no Colégio Salesiano Santo Antônio, atualmente estou no primeiro semestre do curso Engenharia de Software na Instiuição de Ensino Univag. Sou apaixonado por tecnologia e estou em busca de compartilhar o meu conhecimento, por meio do GitHub. 
 
